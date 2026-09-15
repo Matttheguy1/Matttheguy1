@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matttheguy1
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Java and C++
-- 💞️ I’m looking to collaborate on FIRST Robotics Competition
+- 🌱 I’m currently learning VLA and WAM
+- 💞️ I’m looking to collaborate on robotics and manipulation
 - 📫 How to reach me Email: ecomitch2@gmail.com
 
 <!---
